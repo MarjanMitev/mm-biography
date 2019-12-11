@@ -5,6 +5,6 @@ menus:
   main:
     title: skills
     weight: 4
-template: skills
+template: skills_template
 ---
 ## My skills

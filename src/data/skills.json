@@ -1,0 +1,76 @@
+{
+    "core_skills": [
+        {
+            "title": "JavaScript",
+            "level": "advanced",
+            "precentage": "90"
+        },
+        {
+            "title": "React",
+            "level": "advanced",
+            "precentage": "80"
+        },
+        {
+            "title": "Redux",
+            "level": "advanced",
+            "precentage": "80"
+        },
+        {
+            "title": "Angular 8",
+            "level": "intermediate",
+            "precentage": "40"
+        },
+        {
+            "title": "Typescript",
+            "level": "intermediate",
+            "precentage": "70"
+        },
+        {
+            "title": "CSS",
+            "level": "advanced",
+            "precentage": "80"
+        },
+        {
+            "title": "SASS",
+            "level": "advanced",
+            "precentage": "80"
+        },
+        {
+            "title": "HTML & HTML5",
+            "level": "advanced",
+            "precentage": "80"
+        }
+    ],
+    "other_skills": [
+        {
+            "title": "Vue",
+            "level": "beginner",
+            "precentage": "10"
+        },
+        {
+            "title": "Haxe",
+            "level": "imtermediate",
+            "precentage": "60"
+        },
+        {
+            "title": "Git",
+            "level": "advanced",
+            "precentage": "90"
+        },
+        {
+            "title": "Java",
+            "level": "intermediate",
+            "precentage": "70"
+        },
+        {
+            "title": "CI & CD",
+            "level": "intermediate",
+            "precentage": "60"
+        },
+        {
+            "title": "AWS",
+            "level": "beginner",
+            "precentage": "40"
+        }
+    ]
+}

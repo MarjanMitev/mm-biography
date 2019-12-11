@@ -5,6 +5,7 @@ import HeroBlock from './HeroBlock';
 import PostsBlock from './PostsBlock';
 import Social from './Social';
 import Layout from './Layout';
+import Skills from './Skills';
 
 export {
     ContentBlock,
@@ -13,7 +14,8 @@ export {
     HeroBlock,
     PostsBlock,
     Social,
-    Layout
+    Layout,
+    Skills
 };
 
 export default {
@@ -23,5 +25,6 @@ export default {
     HeroBlock,
     PostsBlock,
     Social,
-    Layout
+    Layout,
+    Skills
 };

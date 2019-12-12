@@ -23,7 +23,6 @@ export default class SkillsTemplate extends React.Component {
                 </div>
                 }
                 <div className="post-content">
-                  {htmlToReact(_.get(this.props, 'pageContext.html'))}
                   <Skills {...this.props}/>
                 </div>
               </article>

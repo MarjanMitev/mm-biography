@@ -241,3 +241,32 @@
 .block-cta .button {
   margin-right: 15px;
 }
+
+/* Skills content */
+.skills-wrapper {
+  display: flex;
+
+  .skills-list {
+    list-style: none;
+
+    .skill-item {
+      padding: 5px;
+      border: 1px solid black;
+      width: 200px;
+      flex-direction: row;
+      justify-content: left;
+      height: 15px;
+      font-size: 10px;
+      border-bottom-left-radius: 10px;
+      border-bottom-right-radius: 10px;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      -webkit-font-smoothing: antialiased;
+
+      .skill-progress {
+        display: inline-block;
+      }
+    }
+  }
+
+}

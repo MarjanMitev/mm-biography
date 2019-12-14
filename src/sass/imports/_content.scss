@@ -244,27 +244,40 @@
 
 /* Skills content */
 .skills-wrapper {
-  display: flex;
-
   .skills-list {
     list-style: none;
+    display: flex;
+    flex-flow: wrap;
+    color: white;
+    justify-content: space-around;
 
     .skill-item {
-      padding: 5px;
-      border: 1px solid black;
+      border: 1px solid #1de2bc;
       width: 200px;
-      flex-direction: row;
-      justify-content: left;
       height: 15px;
-      font-size: 10px;
+      font-size: 12px;
       border-bottom-left-radius: 10px;
       border-bottom-right-radius: 10px;
       border-top-left-radius: 10px;
       border-top-right-radius: 10px;
       -webkit-font-smoothing: antialiased;
+      margin: 5px;
+      padding: 5px;
+      box-shadow: 0px 0 1px 3px rgba(29, 226, 188, 0.2);
 
       .skill-progress {
         display: inline-block;
+        height: 24px;
+        line-height: 27px;
+        position: relative;
+        top: -6px;
+        left: -6px;
+        border-top-left-radius: 10px;
+        border: 1px solid transparent;
+        background: #1de2bc;
+        border-bottom-left-radius: 10px;
+        padding-left: 5px;
+        width: 80%;
       }
     }
   }

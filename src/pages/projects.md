@@ -1,14 +1,12 @@
 ---
-title: Projects
-subtitle: Personal and client projects
+title: Projects & Details
+subtitle: ''
 menus:
   main:
-    title: Projects
+    title: ''
     weight: 4
 template: page
 ---
-## Project & Details
-
 **DAZN- live sports streaming cross platform app**
 
 **Project details:** Web software solution based on video on demand platform which enables users to subscribe and watch sports streaming live. It is available in multiple countries: USA, Canada, Japan, Germany, Austria, Italy, Switzerland. It is scalable software deployed on aws cloud.
